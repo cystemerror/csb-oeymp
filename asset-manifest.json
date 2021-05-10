@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://cystemerror.github.io/csb-oeymp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://cystemerror.github.io/csb-oeymp/static/js/main.d75d3b65.chunk.js",
+    "main.js.map": "https://cystemerror.github.io/csb-oeymp/static/js/main.d75d3b65.chunk.js.map",
+    "runtime-main.js": "https://cystemerror.github.io/csb-oeymp/static/js/runtime-main.9b0f47c6.js",
+    "runtime-main.js.map": "https://cystemerror.github.io/csb-oeymp/static/js/runtime-main.9b0f47c6.js.map",
+    "static/js/2.61b9aa71.chunk.js": "https://cystemerror.github.io/csb-oeymp/static/js/2.61b9aa71.chunk.js",
+    "static/js/2.61b9aa71.chunk.js.map": "https://cystemerror.github.io/csb-oeymp/static/js/2.61b9aa71.chunk.js.map",
+    "index.html": "https://cystemerror.github.io/csb-oeymp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://cystemerror.github.io/csb-oeymp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.61b9aa71.chunk.js.LICENSE.txt": "https://cystemerror.github.io/csb-oeymp/static/js/2.61b9aa71.chunk.js.LICENSE.txt",
+    "static/media/HotmessExpress2.c06cabdc.mp4": "https://cystemerror.github.io/csb-oeymp/static/media/HotmessExpress2.c06cabdc.mp4",
+    "static/media/mountain-thumb.968e7932.png": "https://cystemerror.github.io/csb-oeymp/static/media/mountain-thumb.968e7932.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b0f47c6.js",
+    "static/js/2.61b9aa71.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d75d3b65.chunk.js"
+  ]
+}
